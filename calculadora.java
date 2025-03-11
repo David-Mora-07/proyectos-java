@@ -2,7 +2,7 @@ package calculadora;
 
 import java.util.Scanner;
 
-public class calc {
+public class calculadora {
     public static void main(String[] args) {
         //introduccion del primer numero
         System.out.println("Introduce el primer numero: ");
